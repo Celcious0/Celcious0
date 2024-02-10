@@ -5,3 +5,4 @@
 <br><br>
 ### Stats
 [![https://solved.ac/profile/ad1096](http://mazassumnida.wtf/api/v2/generate_badge?boj=ad1096)](https://solved.ac/ad1096)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celcious0&show_icons=true&theme=tokyonight)
